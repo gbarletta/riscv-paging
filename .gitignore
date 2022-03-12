@@ -1,4 +1,5 @@
 *.o
 *.mem
 *.elf
+.DS_Store
 
