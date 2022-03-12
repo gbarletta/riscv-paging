@@ -1,0 +1,10 @@
+- Switching between machine modes: https://jborza.com/post/2021-04-04-riscv-supervisor-mode/
+
+- Some UART things: https://osblog.stephenmarz.com/ch2.html
+
+- RISC-V paging: https://osblog.stephenmarz.com/ch3.2.html
+
+- Super cool paging explanation: https://cirosantilli.com/x86-paging
+
+- This project's explanation: http://gbarletta.xyz/info
+
